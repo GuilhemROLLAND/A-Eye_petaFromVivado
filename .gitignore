@@ -2,6 +2,9 @@
 */*/rootfs_config.old
 build/
 images/linux/
+!images/linux/image.ub
+!images/linux/BOOT.BIN
+!images/linux/rootfs.tar.gz
 pre-built/linux/
 .petalinux/*
 !.petalinux/metadata
